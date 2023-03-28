@@ -1,3 +1,10 @@
+# My Typescript Project
+#### I decided to make a really simple React project with Typescript. I found a public API that I converted into typescript using this website: https://app.quicktype.io/?l=ts
+
+#### Because I was using typescript I had to define what my interface Advise was. While using useState I added my interface so it would know exactly what component I was using to fetch my data. 
+
+#### Have fun getting random advise today :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
